@@ -9,7 +9,7 @@ public class MavenTest {
         int j = 10;
         int result = Maven.addition(i, j);
         assertEquals(i+j,result);
-        //lilaläuft
+        //lilaläuftimmernoch
 
 
 
